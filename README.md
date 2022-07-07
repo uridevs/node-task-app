@@ -6,7 +6,7 @@ La app utiliza como base de datos un archivo .json donde se almacenan las tareas
 
 
 
-# Funcionalidades pendientes de añadir/modificar:
+## Funcionalidades pendientes de añadir/modificar:
 
  - Modificar el menu de borrado para que al seleccionar numéricamente la opción coincida con la tarea.
 
